@@ -4,7 +4,7 @@ Project Description: Client wanted a codebase that follows accessibility standar
 
 Features to implement:
 -Adding semantic HTML elements.
--Insure elements follow a logical structure indepent of styling and positon.
+-Ensure elements follow a logical structure indepedent of styling and positon.
 -Images have accessibile alt attributes.
 -Heading attributes are in sequential order.
 -Website title is descriptive and concise.
