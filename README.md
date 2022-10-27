@@ -8,3 +8,11 @@ Features to implement:
 -Images have accessibile alt attributes.
 -Heading attributes are in sequential order.
 -Website title is descriptive and concise.
+
+Screenshot of finished project:
+<div align="center">
+    <img src="urban-octo-telegram\Develop\assets\images\Project 1 Screenshot.png" width="400px"</img> 
+</div>
+
+Link to Project webpage:
+[link](http://127.0.0.1:5501/urban-octo-telegram/Develop/index.html)
