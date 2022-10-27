@@ -10,10 +10,7 @@ Features to implement:
 -Website title is descriptive and concise.
 
 Screenshot of finished project:
-![image](
-<div align="center">
-    <img src="urban-octo-telegram\Develop\assets\images\Project 1 Screenshot.png" width="400px"</img> 
-</div>)
+![Project 1 Screenshot](https://user-images.githubusercontent.com/89206282/198415636-d71b98cb-0192-4e97-a236-9207d1083b21.png)
 
 Link to Project webpage:
 [link](http://127.0.0.1:5501/urban-octo-telegram/Develop/index.html)
