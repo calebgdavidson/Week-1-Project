@@ -1,6 +1,6 @@
 # Week-1-Project
 
-Project Description: Client wanted a codebase that follows accessibility standards so that the website is for search engines.
+Project Description: Client wanted a codebase that follows accessibility standards so that the website is optimized for search engines.
 
 Features to implement:
 -Adding semantic HTML elements.
